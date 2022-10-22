@@ -1,0 +1,18 @@
+New Quiz
+--Question Start--
+MC
+C
+Insert Question
+A: wrong answer
+B: wrong answer
+C: correct answer
+D: wrong answer
+--Question Start--
+TF
+T
+Insert Question
+--Question Start--
+FIB
+blank
+Insert Question
+--Quiz End--

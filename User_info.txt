@@ -1,0 +1,3 @@
+Test Teacher,teach1,password,true
+Test Student,stud1,password,false
+Logan Snelling,lsnellin,password,true

@@ -1,0 +1,91 @@
+--Start Submission--
+user-name-here
+course-name-here
+quiz-name-here
+2
+4
+1.0
+answer1
+1
+2
+answer2
+1
+2
+--End Submission--
+--Start Submission--
+user_test
+course_test
+quiz_test
+1.1
+2.0
+1.2
+right_ans
+0.9
+1.0
+wrong_ans
+0.2
+1.0
+--End Submission--
+--Start Submission--
+stud1
+Delete This
+Delete Quiz
+0.0
+1.0
+4.0
+null
+0.0
+1.0
+--End Submission--
+--Start Submission--
+stud1
+Example Course
+Example Quiz 1
+0.0
+3.0
+13.0
+B
+0.0
+1.0
+T
+0.0
+1.0
+null
+0.0
+1.0
+--End Submission--
+--Start Submission--
+stud1
+CS18000
+Midterm1
+6.0
+8.0
+13.0
+T
+3.0
+3.0
+F
+2.0
+4.0
+T
+1.0
+1.0
+--End Submission--
+--Start Submission--
+lsnellin
+CS18000
+Midterm1
+4.5
+7.0
+45.0
+T
+1.0
+1.0
+F
+2.5
+5.0
+T
+1.0
+1.0
+--End Submission--
+--End Submission List--

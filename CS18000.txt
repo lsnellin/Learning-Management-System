@@ -1,0 +1,35 @@
+--Quiz Start--
+Midterm1
+--Question Start--
+TF
+T
+Insert Question
+--Question Start--
+TF
+T
+Insert Question
+--Question Start--
+TF
+T
+Insert Question
+--Quiz End--
+--Quiz Start--
+New Quiz
+--Question Start--
+MC
+A
+Insert Question
+A: wrong answer
+B: wrong answer
+C: correct answer
+D: wrong answer
+--Question Start--
+TF
+T
+Insert Question
+--Question Start--
+FIB
+blank
+Insert Question
+--Quiz End--
+--Course End--

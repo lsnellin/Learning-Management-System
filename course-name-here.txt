@@ -1,0 +1,23 @@
+--Quiz Start--
+new quiz
+--Question Start--
+MC
+A
+Insert Question
+A
+B
+C
+D
+--Quiz End--
+--Quiz Start--
+new quiz
+--Question Start--
+MC
+A
+Insert Question
+A
+B
+C
+D
+--Quiz End--
+--Course End--

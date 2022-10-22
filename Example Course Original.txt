@@ -1,0 +1,27 @@
+--Quiz Start--
+Example Quiz 1
+--Question Start--
+MC
+mcanswer
+mcquestion
+optA
+optB
+optC
+optD
+--Question Start--
+TF
+tfquiz1correctanswer
+tfquiz1question
+--Question Start--
+FIB
+fibcorrectanswer
+fibquestion
+--Quiz End--
+--Quiz Start--
+Example Quiz 2
+--Question Start--
+TF
+tfquiz2correctanswer
+tfquiz2question
+--Quiz End--
+--Course End--

@@ -1,0 +1,5 @@
+Example Course
+CS18000
+course-name-here
+CS18200
+CS 24000

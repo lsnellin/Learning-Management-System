@@ -1,0 +1,15 @@
+--Start Submission--
+user-name-here
+course-name-here
+quiz-name-here
+points
+max_points
+time
+answer1
+pointsEarned1
+pointValue1
+answer2
+pointsEarned2
+pointValue2
+--End Submission--
+--End Submission List--
